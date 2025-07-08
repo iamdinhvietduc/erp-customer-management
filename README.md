@@ -2,6 +2,8 @@
 
 Hệ thống quản lý khách hàng ERP được xây dựng bằng Next.js 15, TypeScript và Tailwind CSS.
 
+🔗 **Link demo**: [https://erp-customer-management.vercel.app](https://erp-customer-management.vercel.app)
+
 ## 🚀 Tính năng chính
 
 ### 1. Quản lý khách hàng
